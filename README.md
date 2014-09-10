@@ -1,0 +1,4 @@
+sts
+===
+
+Spring Tool Suite.
